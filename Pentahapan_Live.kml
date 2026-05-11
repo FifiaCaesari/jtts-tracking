@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
@@ -67,6 +66,7 @@
 			<color>ff00ffff</color>
 			<width>3</width>
 		</LineStyle>
+
 	</Style>
 	<Style id="line7">
 		<LineStyle>
@@ -55160,7 +55160,7 @@
         <refreshVisibility>1</refreshVisibility>
         <flyToView>0</flyToView>
         <Link>
-            <href>https://jttsgearth.web.app/JTTS_NetworkLink.kml</href
+            <href>https://jttsgearth.web.app/Pentahapan_Live.kml</href>
             <refreshMode>onInterval</refreshMode>
             <refreshInterval>60</refreshInterval>
         </Link>
